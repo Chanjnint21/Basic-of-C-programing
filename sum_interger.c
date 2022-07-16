@@ -6,6 +6,6 @@ int main(){
   printf ("Enter two Intergers you want to sum:");
   scanf("%d""%d", &num1, &num2);
   sum = num1 + num2;
-  printf("Add number = %d",Add);
+  printf("Add number = %d",sum);
   return 0;
 }
